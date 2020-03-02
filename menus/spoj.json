@@ -1,0 +1,21 @@
+{
+  "menu":
+  [
+    {
+      "label": "Packages",
+      "submenu":
+      [
+        {
+          "label": "spoj",
+          "submenu":
+          [
+            {
+              "label": "run",
+              "command": "spoj:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

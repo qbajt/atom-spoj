@@ -1,0 +1,6 @@
+{
+  "atom-text-editor":
+  {
+    "f5": "spoj:run"
+  }
+}
